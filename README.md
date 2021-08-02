@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimiakinleye
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Development and Programming as a whole
 - 🌱 I’m currently learning Frontend Web development frameworks (Vue and React)
-- 💞️ I’m looking to collaborate on prjects aimed at providing solutions
+- 💞️ I’m looking to collaborate on projects aimed at providing solutions
 - 📫 You can reach me on toluwanimiakinleye01@gmail.com
 
 <!---
