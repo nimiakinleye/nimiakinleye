@@ -1,4 +1,3 @@
-https://wakatime.com/badge/user/8646a2c6-b2da-429f-8825-6e1744827e4c.svg
 <a href="https://wakatime.com/@8646a2c6-b2da-429f-8825-6e1744827e4c"><img src="https://wakatime.com/badge/user/8646a2c6-b2da-429f-8825-6e1744827e4c.svg" alt="Total time coded since Mar 16 2021" /></a>
 
 - 👋 Hi, I’m @nimiakinleye
