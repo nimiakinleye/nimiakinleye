@@ -1,3 +1,5 @@
+https://wakatime.com/badge/user/8646a2c6-b2da-429f-8825-6e1744827e4c.svg
+
 - 👋 Hi, I’m @nimiakinleye
 - 👀 I’m interested in Web Development and Programming as a whole
 - 🌱 I’m currently on the path to being a Javascript Fullstack Web Developer. Having garenered proficiency in Vue.js and React.js, I'm currently learning Node.js
